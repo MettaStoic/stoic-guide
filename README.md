@@ -1,4 +1,5 @@
 # Stoicism Guide - A list of resources
+
 Below you will find a list of resources for Stoicism. Including: books, videos, articles, and podcasts.<br />
 If you haven't already, you can join a community of Stoics here: <a href="https://www.facebook.com/groups/Stoicism/">Stoicism Group</a>
 
@@ -18,9 +19,10 @@ If you haven't already, you can join a community of Stoics here: <a href="https:
 ## Marcus Aurelius | Epictetus | Seneca
 
 ### Marcus Aurelius
+
 <a href="https://en.wikipedia.org/wiki/Marcus_Aurelius">Wikipedia - Marcus Aurelius</a><br />
 <a href="http://www.iep.utm.edu/marcus/">IEP - Marcus Aurelius</a><br />
-<a href="http://seinfeld.co/library/meditations.pdf"> PDF File - The Emperor's Handbook</a>
+<a href="http://seinfeld.co/library/meditations.pdf"> PDF File - The Emperor's Handbook</a><br />
 <a href="https://www.youtube.com/watch?v=5897dMWJiSM">Youtube: Professor Michael Sugrue - Marcus Aurelius</a>
 
 ### Epictetus
